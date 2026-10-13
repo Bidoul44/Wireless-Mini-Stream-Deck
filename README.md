@@ -83,15 +83,6 @@ The PCB and schematic are designed using KiCad.
 * [ ] Testing
 * [ ] 3D printed enclosure
 
-## Repository Structure
-
-```text
-hardware/      → KiCad schematic and PCB
-firmware/      → ESP32-S3 firmware
-BOM.md
-JOURNAL.md
-README.md
-```
 
 # Some photos :
 <img width="3024" height="4032" alt="IMG_3111" src="https://github.com/user-attachments/assets/e0f62cb7-705b-4291-adc2-8368c31354a5" />
