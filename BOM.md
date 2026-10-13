@@ -12,15 +12,14 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [2 ESP32-C3 Mini Development Board](https://www.amazon.fr/gp/product/B0FKGZXXP3/ref=ewc_pr_img_3?smid=A24ZD3GC07X0O9&th=1) | Bluetooth communication and control of the macro pad | 1 | $10.08 | $10.08 | [AMAZON](https://www.amazon.fr/gp/product/B0FKGZXXP3/ref=ewc_pr_img_3?smid=A24ZD3GC07X0O9&th=1) |
 | [B10K Linear Potentiometer](https://www.amazon.fr/gp/product/B07ZHZ7DYN/ref=ewc_pr_img_1?smid=A2ZY4SNMU91J2Q&th=1) | Analog rotary control | 3 | $3.36 | $10.08 | [AMAZON](https://www.amazon.fr/gp/product/B07ZHZ7DYN/ref=ewc_pr_img_1?smid=A2ZY4SNMU91J2Q&th=1) |
 | [LiPo Battery 3.7V](https://www.amazon.fr/gp/product/B0G64BKS1V/ref=ewc_pr_img_4?smid=A2I39AZ8J4ZHFM&th=1) | Portable power source | 1 | $9.98 | $9.98 | [AMAZON](https://www.amazon.fr/gp/product/B0G64BKS1V/ref=ewc_pr_img_4?smid=A2I39AZ8J4ZHFM&th=1) |
 | [USB-C LiPo Charging Module](https://www.amazon.fr/gp/product/B0DBHMR5KJ/ref=ewc_pr_img_2?smid=A3CU1033LF09XD&psc=1) | Recharge the LiPo battery safely from USB-C | 1 | $0.01 | $0.01 | [AMAZON](https://www.amazon.fr/gp/product/B0DBHMR5KJ/ref=ewc_pr_img_2?smid=A3CU1033LF09XD&psc=1) |
 | [6×6 mm Tactile Push Button](https://www.amazon.fr/SunFounder-Raspberry-Tutoriels-d%C3%A9taill%C3%A9s-Haut-Parleur/dp/B09D774YWQ) | Programmable physical input | 6 | $0.01 | $0.06 | [ME](https://www.amazon.fr/SunFounder-Raspberry-Tutoriels-d%C3%A9taill%C3%A9s-Haut-Parleur/dp/B09D774YWQ) |
 | [Green LED,ESP32 Pin Headers / Socket,Resistors,Capacitors,Power Switch](https://www.amazon.fr/SunFounder-Raspberry-Tutoriels-d%C3%A9taill%C3%A9s-Haut-Parleur/dp/B09D774YWQ) | some little things | 1 | $0.01 | $0.01 | [ME](https://www.amazon.fr/SunFounder-Raspberry-Tutoriels-d%C3%A9taill%C3%A9s-Haut-Parleur/dp/B09D774YWQ) |
 | [PCB](https://jlcpcb.com/) | my board | 1 | $0.01 | $0.01 | [JLCPCB](https://jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$30.23** | — |
+| **Parts subtotal** | — | — | — | **$20.15** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.23** | — |
+| **Total** | — | — | — | **$20.15** | — |
 
-**$0.23 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$9.85 left of the tier's funding.
